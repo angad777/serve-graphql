@@ -1,7 +1,9 @@
-# Serve GraphQl
-Minimalistic GraphQL Server with Apollo
+# Serve GraphQL
+Minimalistic GraphQL Server with Apollo.
 
 # Installation
+
+Clone : https://github.com/angad777/serve-graphql.git
 
 ### Backend
 
